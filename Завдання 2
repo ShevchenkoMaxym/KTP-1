@@ -1,0 +1,5 @@
+a = int(float(input()))
+b = int(float(input()))
+
+print(-b, '/', a, '=', -b/a)
+x = (-b/a)
